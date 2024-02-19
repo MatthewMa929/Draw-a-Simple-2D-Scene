@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Matth\source\repos\P1\main.cpp(86,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Matth\source\repos\P1\main.cpp(87,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Matth\source\repos\P1\main.cpp(96,72): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  P1.vcxproj -> C:\Users\Matth\source\repos\P1\Debug\P1.exe
